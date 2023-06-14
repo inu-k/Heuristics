@@ -32,4 +32,4 @@
 *.app
 
 # sample code
-sample_code/**
+**/sample_code/**
