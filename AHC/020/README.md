@@ -19,3 +19,6 @@
 
 実装は[main.cpp](./main.cpp)  
 提出結果は[こちら](https://atcoder.jp/contests/ahc020/submissions/42196816)
+
+## 入力例1に対する解の構成のGIF
+![](./seed0.gif)
